@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593253096532",
+    "project_id": "empowered-liberia-5c64e",
+    "storage_bucket": "empowered-liberia-5c64e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593253096532:android:0fe7e94658ecaac55661c1",
+        "android_client_info": {
+          "package_name": "Naazi.fah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB08n9gwRjH8sPeZRKYwcNllca2d5AAB0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
